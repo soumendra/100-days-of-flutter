@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge
+# My #100DaysOfFlutter Journal
 
 ## Contents
 
